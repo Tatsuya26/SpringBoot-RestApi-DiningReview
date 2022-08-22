@@ -2,7 +2,7 @@
 
  Project from course "Create REST APIs with Spring and Java" from CodeAcademy 
  -  RESTful web API with data persistence using Spring and Spring Data JPA
- -  Connection to MySql database using Hibernate
+ -  Connection to MySql database using Spring Data JPA
  -  A simple system to Review restaurants, rating them and adding description of the experience.
  
  # Functionalities
